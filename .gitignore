@@ -1,7 +1,6 @@
 # extra
 *.rar
 *.gz
-*.csv
 catboost_info/
 .ipynb_checkpoints/
 
